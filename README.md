@@ -1,5 +1,5 @@
-# quake3-movement-unity3d
-A port of the Quake III strafe jumping mechanics to Unity3D
+# 'quake3-movement-unity3d - Port to C#'
+A port of the Quake III strafe jumping mechanics to Unity3D, from Zinglish's Js. version to this C# version
 
                     GNU GENERAL PUBLIC LICENSE
                        Version 2, June 1991
